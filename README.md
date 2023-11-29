@@ -51,12 +51,10 @@ def max_marks(list1):
     return a        
 
 ```
-## Sample Input and Output
-![output](./img/max_marks1.jpg) 
-
 ## Output:
-![Alt text](<m 1.png>)
-![Alt text](<m 2.png>)
-![Alt text](<m 3.png>)
+![m 1](https://github.com/PavithraD23004871/FindMaximum/assets/138955967/0dea0e07-a24e-4561-aee2-35fc34196006)
+![m 2](https://github.com/PavithraD23004871/FindMaximum/assets/138955967/49e46c0c-10ed-4f0d-8235-02911c8d2e44)
+![m 3](https://github.com/PavithraD23004871/FindMaximum/assets/138955967/697a1a12-f500-4e98-9559-5e40c0f8f23d)
+
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
